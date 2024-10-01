@@ -5,7 +5,7 @@
 
 ## Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:dbsrkd1970@pusan.ac.kr"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:dbsrkd1970@pusan.ac.kr" width="68"/></a>
 
 </br>
 
